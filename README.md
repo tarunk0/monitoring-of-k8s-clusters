@@ -141,6 +141,9 @@ Password: prom-operator
   
   ![image](https://user-images.githubusercontent.com/92631457/189539500-d96ed131-5304-4194-88e0-57ea63c46271.png)
 
+![image](https://user-images.githubusercontent.com/92631457/189539638-60b4648a-3a87-4959-bcae-5c06b8f62610.png)
+
+![image](https://user-images.githubusercontent.com/92631457/189539738-dd397e36-77e6-4042-8437-6f39e0fca57f.png)
 
 
 
